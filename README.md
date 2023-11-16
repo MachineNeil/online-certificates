@@ -34,22 +34,27 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
   3. [Natural Language Processing in TensorFlow (24 h)](https://www.coursera.org/learn/natural-language-processing-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/V92P6Y9VRWMH))
   4. [Sequences, Time Series and Prediction (22 h)](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) ([CERT](https://www.coursera.org/account/accomplishments/verify/FYCTJMQSGT5C))
 
+
 ## Specializations
 
 ### (A) - Computer Science
 
 - [TensorFlow: Advanced Techniques Specialization (90 h)](https://www.coursera.org/specializations/tensorflow-advanced-techniques) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/BQS9R783FDAW))
+
   1. [Advanced Computer Vision with TensorFlow (19 h)](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/9FECL3ZXTHZE))
   2. [Custom and Distributed Training with TensorFlow (24 h)](https://www.coursera.org/learn/custom-distributed-training-with-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/Q77VJFGDKN39))
   3. [Custom Models, Layers, and Loss Functions with TensorFlow (31 h)](https://www.coursera.org/learn/custom-models-layers-loss-functions-with-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/NCQVAXUBY57N))
   4. [Generative Deep Learning with TensorFlow (16 h)](https://www.coursera.org/learn/generative-deep-learning-with-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/EWG7DKTKB2ZC))
 
+
 ### (B) - Mathematics & Statistics
 
 - [Mathematics for Machine Learning and Data Science Specialization (74 h)](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/S2HFX9HLC4GJ))
+
   1. [Calculus for Machine Learning and Data Science (25 h)](https://www.coursera.org/learn/machine-learning-calculus) ([CERT](https://www.coursera.org/account/accomplishments/verify/RX2VV5EU6NE4))
   2. [Linear Algebra for Machine Learning and Data Science (21 h)](https://www.coursera.org/learn/machine-learning-linear-algebra) ([CERT](https://www.coursera.org/account/accomplishments/verify/XYYBNRJ4MLKM))
   3. [Probability & Statistics for Machine Learning & Data Science (28 h)](https://www.coursera.org/learn/machine-learning-probability-and-statistics) ([CERT](https://www.coursera.org/account/accomplishments/verify/PK5HN9JM32AQ))
+
 
 ### (C) - Domain Expertise
 
@@ -60,6 +65,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
   3. [Interpersonal, Developmental, and Evolutionary Perspectives of the Mind (12 h)](https://www.coursera.org/learn/mind-machine-perspectives) ([CERT](https://www.coursera.org/account/accomplishments/verify/FXH5GTJTZ7MB))
   4. [What is “the mind” and what is artificial intelligence? (7 h)](https://www.coursera.org/learn/mind-machine-artificial-intelligence) ([CERT] (https://www.coursera.org/account/accomplishments/verify/FPECXBLFSP5T))
 
+
 ### (A ∩ B) - Machine Learning
 
 - [Deep Learning Specialization (125 h)](https://www.coursera.org/specializations/deep-learning) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/HPT3QS9ESLTE))
@@ -68,21 +74,25 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
   3. [Structuring Machine Learning Projects (6 h)](https://www.coursera.org/learn/machine-learning-projects) ([CERT](https://www.coursera.org/account/accomplishments/verify/UC68953RV4XP))
   4. [Neural Networks and Deep Learning (24 h)](https://www.coursera.org/learn/neural-networks-deep-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/7FNKHYUF8QXS))
   5. [Sequence Models (37 h)](https://www.coursera.org/learn/nlp-sequence-models) ([CERT](https://www.coursera.org/account/accomplishments/verify/UKHT6NKJ9Z7M))
+    
 - [Machine Learning Specialization (94 h)](https://www.coursera.org/specializations/machine-learning-introduction) (deeplearning.ai, Stanford University) ([CERT](https://www.coursera.org/account/accomplishments/specialization/B2NG2R5BREA6))
   1. [Advanced Learning Algorithms (34 h)](https://www.coursera.org/learn/advanced-learning-algorithms) ([CERT](https://www.coursera.org/account/accomplishments/verify/Q4A983PAZ9WZ))
   2. [Supervised Machine Learning: Regression and Classification (33 h)](https://www.coursera.org/learn/machine-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/ZY7C5EMEPCB8))
   3. [Unsupervised Learning, Recommenders, Reinforcement Learning (27 h)](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/AFQW9LFP9NYZ))
+  
 - [Natural Language Processing Specialization (121 h)](https://www.coursera.org/specializations/natural-language-processing) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/UUKAD49AEMPC))
   1. [Natural Language Processing with Attention Models (35 h)](https://www.coursera.org/learn/attention-models-in-nlp) ([CERT](https://www.coursera.org/account/accomplishments/verify/484AB36GUB4Z))
   2. [Natural Language Processing with Classification and Vector Spaces (33 h)](https://www.coursera.org/learn/classification-vector-spaces-in-nlp) ([CERT](https://www.coursera.org/account/accomplishments/verify/WJ66WFVU3K52))
   3. [Natural Language Processing with Probabilistic Models (30 h)](https://www.coursera.org/learn/probabilistic-models-in-nlp) ([CERT](https://www.coursera.org/account/accomplishments/verify/KNEA9SVPP333))
   4. [Natural Language Processing with Sequence Models (23 h)](https://www.coursera.org/learn/sequence-models-in-nlp) ([CERT](https://www.coursera.org/account/accomplishments/verify/BNR4XDQ7CLHW))
 
+
 ## Courses
 
 ### (C) Domain Expertise
 
 - [Nanotechnology: A Maker’s Course (26 h)](https://www.coursera.org/learn/nanotechnology) (Duke University) ([CERT](https://www.coursera.org/account/accomplishments/verify/JT7FNN2RN94N))
+
 
 ## Guided Projects
 
@@ -92,9 +102,11 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 
 - [Git for Developers Using Github (2 h)](https://www.coursera.org/learn/git-for-developers-using-github) ([CERT](https://www.coursera.org/account/accomplishments/verify/6UPU2A6Z4XQC))
 
+
 #### Data Processing and Analysis
 
 - [Image Data Augmentation with Keras (1 h)](https://www.coursera.org/learn/data-augmentation-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/QGDMQ2NHYAK2))
+
 
 ### (A ∩ B) - Machine Learning
 
@@ -133,6 +145,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Titanic Survival Prediction Using Machine Learning (2 h)](https://www.coursera.org/learn/titanic-survival-prediction-using-machine-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/JP6B5B8YWCQV))
 - [Understanding Deepfakes with Keras (1 h)](https://www.coursera.org/learn/deepfakes-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/NRSLYQCUYQ63))
 
+
 #### Neural Network
 
 - [Basic Image Classification with TensorFlow (2 h)](https://www.coursera.org/learn/tensorflow-beginner-basic-image-classification) ([CERT](https://www.coursera.org/account/accomplishments/verify/ZWSR33FEQ4K3))
@@ -144,20 +157,24 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Siamese Network with Triplet Loss in Keras (1 h)](https://www.coursera.org/learn/siamese-network-triplet-loss-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/UUUND3S8GWVK))
 - [Traffic Sign Classification Using Deep Learning in Python/Keras (1 h)](https://www.coursera.org/learn/traffic-sign-classification-deep-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/JY5S3DV3CAUX))
 
+
 #### Logistic Regression
 
 - [Logistic Regression with NumPy and Python (1 h)](https://www.coursera.org/learn/logistic-regression-numpy-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/TXH44Y8SS8JX))
 - [Perform Sentiment Analysis with scikit-learn (1 h)](https://www.coursera.org/learn/scikit-learn-logistic-regression-sentiment-analysis) ([CERT](https://www.coursera.org/account/accomplishments/verify/N8AUE2QUEDBB))
+
 
 #### Support Vector Machines
 
 - [Support Vector Machines in Python, From Start to Finish (1 h)](https://www.coursera.org/learn/support-vector-machines-in-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/TM5VD2TM34KB))
 - [Support Vector Machines with scikit-learn (2 h)](https://www.coursera.org/learn/support-vector-machines-scikit-learn) ([CERT](https://www.coursera.org/account/accomplishments/verify/2T5LAKYPDSRS))
 
+
 #### Tree-Based Models
 
 - [Classification Trees in Python, From Start To Finish (1 h)](https://www.coursera.org/learn/classification-trees-in-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/HA5LY7FDXVPQ))
 - [Predict Employee Turnover with scikit-learn (1 h)](https://www.coursera.org/learn/employee-turnover-scikit-learn) ([CERT](https://www.coursera.org/account/accomplishments/verify/MHHZA6U7UJ5D))
+
 
 #### Regression
 
@@ -165,6 +182,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Linear Regression with Python (1 h)](https://www.coursera.org/learn/linear-regression) ([CERT](https://www.coursera.org/account/accomplishments/verify/PYDXA6V37A39))
 - [Multiple Linear Regression with scikit-learn (1 h)](https://www.coursera.org/learn/scikit-learn-multiple-linear-regression) ([CERT](https://www.coursera.org/account/accomplishments/verify/SJJH4RLYVVEB))
 - [Predicting House Prices with Regression using TensorFlow (1 h)](https://www.coursera.org/learn/tensorflow-beginner-predicting-house-prices-regression) ([CERT](https://www.coursera.org/account/accomplishments/verify/HVGNHRNT3MM2))
+
 
 #### Unsupervised
 
@@ -182,6 +200,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Python for Data Visualization: Matplotlib & Seaborn (Enhanced) (2 h)](https://www.coursera.org/learn/python-for-data-visualization-matplotlib-and-seaborn) ([CERT](https://www.coursera.org/account/accomplishments/verify/TFN65XU6NWRP))
 - [Recognizing Shapes in Images with OpenCV (1 h)](https://www.coursera.org/learn/recognizing-shapes-images-opencv) ([CERT](https://www.coursera.org/account/accomplishments/verify/9MHTSVVGYLA6))
 - [Unsupervised Machine Learning for Customer Market Segmentation (1 h)](https://www.coursera.org/learn/machine-learning-for-customer-segmentation) ([CERT](https://www.coursera.org/account/accomplishments/verify/BD7QUU4FL3HS))
+
 
 #### Semi-Supervised
 
