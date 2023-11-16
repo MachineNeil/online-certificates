@@ -53,11 +53,12 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 
 ### (C) - Domain Expertise
 
-- [Mind and Machine Specialization (26 h)](https://www.coursera.org/specializations/mind-machine) (University of Colorado Boulder) ([CERT](https://www.coursera.org/account/accomplishments/specialization/GRPCHBYGJENJ))
+- [Mind and Machine Specialization (35 h)](https://www.coursera.org/specializations/mind-machine) (University of Colorado Boulder) ([CERT](https://www.coursera.org/account/accomplishments/specialization/GRPCHBYGJENJ))
 
   1. [Computational Vision (8 h)](https://www.coursera.org/learn/mind-machine-computational-vision) ([CERT](https://www.coursera.org/account/accomplishments/verify/YK3GF3R6CMPN))
   2. [Methods for Solving Problems (6 h)](https://www.coursera.org/learn/mind-machine-problem-solving-methods) ([CERT](https://www.coursera.org/account/accomplishments/verify/9YYBUKB6B3BR))
   3. [Interpersonal, Developmental, and Evolutionary Perspectives of the Mind (12 h)](https://www.coursera.org/learn/mind-machine-perspectives) ([CERT](https://www.coursera.org/account/accomplishments/verify/FXH5GTJTZ7MB))
+  4. [What is “the mind” and what is artificial intelligence? (7 h)](https://www.coursera.org/learn/mind-machine-artificial-intelligence) ([CERT] (https://www.coursera.org/account/accomplishments/verify/FPECXBLFSP5T))
 
 ### (A ∩ B) - Machine Learning
 
