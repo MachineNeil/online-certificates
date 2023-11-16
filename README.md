@@ -1,6 +1,6 @@
 # online-certifications
 
-The purpose of this repository is to showcase my self-motivated, curiosity-driven, hands-on development in data science. Specifically, my goal is the mastery of artificial intelligence and its myriad derivatives from a technical perspective, so this will be an ever-evolving endeavor. which I attempt to classify with the aid of the following Venn diagram
+The purpose of this repository is to showcase my self-motivated, hands-on development in data science. Specifically, my goal is the mastery of artificial intelligence and its myriad derivatives from a technical perspective, so this will be an ever-evolving endeavor. which I attempt to classify with the aid of the following Venn diagram
 
 <p align="center">
   <img src="https://github.com/MachineNeil/online-certifications/assets/112895385/55ef28b7-8267-4722-9f9f-27eaf72aa8ae"/>
