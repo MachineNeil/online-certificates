@@ -3,7 +3,7 @@
 The purpose of this repository is to showcase my self-motivated, hands-on development in data science, which I attempt to classify with the aid of the following Venn diagram. Specifically, my goal is the mastery of artificial intelligence and its myriad derivatives from a technical perspective, so this will be an ever-evolving endeavor.
 
 <p align="center">
-  <img src="https://github.com/MachineNeil/online-certifications/assets/112895385/55ef28b7-8267-4722-9f9f-27eaf72aa8ae"/>
+  <img src="https://github.com/MachineNeil/online-certificates/assets/112895385/55ef28b7-8267-4722-9f9f-27eaf72aa8ae"/>
 </p>
 
 > [!NOTE]
@@ -11,7 +11,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 >
 > Moreover, I owe a debt of gratitude to the following instructors, each of whom has played a crucial role in shaping my skills: Mr. Ari Anastassiou, Mr. Snehan Kekre, Mr. Ryan Ahmed, Ms. Leire Ahedo, Mr. Amit Yadav, Mr. Andrew Ng, and Mr. Laurence Moroney.
 >
-> To provide clarity, the following descriptions represent the consensus regarding the certifications outlined in this repository:
+> To provide clarity, the following descriptions represent the consensus regarding the certificates outlined in this repository:
 > > **Professional Certificate**: _a series of related courses focused on providing hands-on experience in a skill._
 > >
 > > **Specialization**: _a series of related courses designed to help you master a specific topic._
