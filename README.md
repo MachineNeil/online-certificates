@@ -1,6 +1,6 @@
-# online-certifications
+# My completed, online Data Science certificates.
 
-The purpose of this repository is to showcase my self-motivated, hands-on development in data science, which I attempt to classify with the aid of the following Venn diagram. Specifically, my goal is the mastery of artificial intelligence and its myriad derivatives from a technical perspective, so this will be an ever-evolving endeavor.
+The purpose of this repository is to showcase my self-motivated, hands-on development in Data Science, which I attempt to classify with the aid of the following Venn diagram. Specifically, my goal is the mastery of artificial intelligence and its myriad derivatives from a technical perspective, so this will be an ever-evolving endeavor.
 
 <p align="center">
   <img src="https://github.com/MachineNeil/online-certificates/assets/112895385/55ef28b7-8267-4722-9f9f-27eaf72aa8ae"/>
