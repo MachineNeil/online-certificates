@@ -1,4 +1,4 @@
-# My completed, online Data Science certificates.
+# My completed online Data Science certificates.
 
 The purpose of this repository is to showcase my self-motivated, hands-on development in Data Science, which I attempt to classify with the aid of the following Venn diagram. Specifically, my goal is the mastery of artificial intelligence and its myriad derivatives from a technical perspective, so this will be an ever-evolving endeavor.
 
