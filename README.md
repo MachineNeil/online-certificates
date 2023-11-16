@@ -22,6 +22,8 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 
 > [!WARNING]
 > There is a possibility that the classification of certain certificates may be inaccurate. Likewise, the subdivision of specific areas could inaccurate or redundant. Should you have any insights or recommendations for improvement in either of these aspects, I would greatly appreciate your input.
+>
+> On a different note, links have a tendency to rot over time. Therefore, if you come across any indications of decay in this repository, please do let me know.
 
 ## Professional Certificates
 
