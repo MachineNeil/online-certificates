@@ -7,7 +7,7 @@ The purpose of this repository is to showcase my self-motivated, curiosity-drive
 </p>
 
 > [!NOTE]
-> Both the conception of this publication and its structure are derived from Mr. Jon Ting's [repository](https://github.com/Jon-Ting/coursera-certifications#a-computer-science).
+> Both the conception of this publication and its structure are derived from Mr. Jon Ting's [repository](https://github.com/Jon-Ting/coursera-certifications).
 >
 > Moreover, I owe a debt of gratitude to the following instructors, each of whom has played a crucial role in shaping my skills: Mr. Ari Anastassiou, Mr. Snehan Kekre, Mr. Ryan Ahmed, Ms. Leire Ahedo, Mr. Amit Yadav, Mr. Andrew Ng, and Mr. Laurence Moroney.
 >
