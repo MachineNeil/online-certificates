@@ -180,6 +180,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 
 - [Linear Regression with NumPy and Python (1 h)](https://www.coursera.org/learn/linear-regression-numpy-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/Y6DVDVN4ENZ2))
 - [Linear Regression with Python (1 h)](https://www.coursera.org/learn/linear-regression) ([CERT](https://www.coursera.org/account/accomplishments/verify/PYDXA6V37A39))
+- [Medical Insurance Premium Prediction with Machine Learning (2h)](https://www.coursera.org/learn/medical-insurance-premium-prediction-with-machine-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/6VGL8UBG7TJB))
 - [Multiple Linear Regression with scikit-learn (1 h)](https://www.coursera.org/learn/scikit-learn-multiple-linear-regression) ([CERT](https://www.coursera.org/account/accomplishments/verify/SJJH4RLYVVEB))
 - [Predicting House Prices with Regression using TensorFlow (1 h)](https://www.coursera.org/learn/tensorflow-beginner-predicting-house-prices-regression) ([CERT](https://www.coursera.org/account/accomplishments/verify/HVGNHRNT3MM2))
 - [Regression with Automatic Differentiation in TensorFlow (1 h)](https://www.coursera.org/learn/regression-automatic-differentiation-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/DWY38PNZRNJ8))
