@@ -108,6 +108,11 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Image Data Augmentation with Keras (1 h)](https://www.coursera.org/learn/data-augmentation-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/QGDMQ2NHYAK2))
 
 
+### (C) Domain Expertise
+
+- [Python for Finance: Beta and Capital Asset Pricing Model (1 h)](https://www.coursera.org/learn/copy-of-portfolio-assets-allocation-and-statistical-data-analysis) ([CERT](https://www.coursera.org/account/accomplishments/verify/6U5X8VSCYHFL))
+
+
 ### (A ∩ B) - Machine Learning
 
 #### Supervised
