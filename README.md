@@ -173,6 +173,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 #### Tree-Based Models
 
 - [Classification Trees in Python, From Start To Finish (1 h)](https://www.coursera.org/learn/classification-trees-in-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/HA5LY7FDXVPQ))
+- [Machine Learning for Kyphosis Disease Classification (1 h)](https://www.coursera.org/learn/machine-learning-for-kyphosis-disease-classification) ([CERT](https://www.coursera.org/account/accomplishments/verify/AWFATPCGB5BV))
 - [Predict Employee Turnover with scikit-learn (1 h)](https://www.coursera.org/learn/employee-turnover-scikit-learn) ([CERT](https://www.coursera.org/account/accomplishments/verify/MHHZA6U7UJ5D))
 
 
