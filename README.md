@@ -106,6 +106,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 #### Data Processing and Analysis
 
 - [Image Data Augmentation with Keras (1 h)](https://www.coursera.org/learn/data-augmentation-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/QGDMQ2NHYAK2))
+- [Save, Load and Export Models with Keras (1 h)](https://www.coursera.org/learn/save-load-export-keras-models) ([CERT](https://www.coursera.org/account/accomplishments/verify/C2WNKW45HVGG))
 
 
 ### (C) Domain Expertise
