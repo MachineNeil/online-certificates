@@ -112,6 +112,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 ### (C) Domain Expertise
 
 - [Python for Finance: Beta and Capital Asset Pricing Model (1 h)](https://www.coursera.org/learn/copy-of-portfolio-assets-allocation-and-statistical-data-analysis) ([CERT](https://www.coursera.org/account/accomplishments/verify/6U5X8VSCYHFL))
+- [Introduction to Customer Segmentation in Python (2 h)](https://www.coursera.org/learn/customer-segmentation-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/WWNBUQ6D9M5W))
 
 
 ### (A ∩ B) - Machine Learning
