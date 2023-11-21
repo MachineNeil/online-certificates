@@ -71,8 +71,8 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Deep Learning Specialization (125 h)](https://www.coursera.org/specializations/deep-learning) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/HPT3QS9ESLTE))
   1. [Convolutional Neural Networks (35 h)](https://www.coursera.org/learn/convolutional-neural-networks) ([CERT](https://www.coursera.org/account/accomplishments/verify/VYGH6ULVSKN4))
   2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (23 h)](https://www.coursera.org/learn/deep-neural-network) ([CERT](https://www.coursera.org/account/accomplishments/verify/ST4B3NKVWUG2))
-  3. [Structuring Machine Learning Projects (6 h)](https://www.coursera.org/learn/machine-learning-projects) ([CERT](https://www.coursera.org/account/accomplishments/verify/UC68953RV4XP))
-  4. [Neural Networks and Deep Learning (24 h)](https://www.coursera.org/learn/neural-networks-deep-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/7FNKHYUF8QXS))
+  3. [Neural Networks and Deep Learning (24 h)](https://www.coursera.org/learn/neural-networks-deep-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/7FNKHYUF8QXS))
+  4. [Structuring Machine Learning Projects (6 h)](https://www.coursera.org/learn/machine-learning-projects) ([CERT](https://www.coursera.org/account/accomplishments/verify/UC68953RV4XP))
   5. [Sequence Models (37 h)](https://www.coursera.org/learn/nlp-sequence-models) ([CERT](https://www.coursera.org/account/accomplishments/verify/UKHT6NKJ9Z7M))
     
 - [Machine Learning Specialization (94 h)](https://www.coursera.org/specializations/machine-learning-introduction) (deeplearning.ai, Stanford University) ([CERT](https://www.coursera.org/account/accomplishments/specialization/B2NG2R5BREA6))
@@ -166,6 +166,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 #### Logistic Regression
 
 - [Logistic Regression with NumPy and Python (1 h)](https://www.coursera.org/learn/logistic-regression-numpy-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/TXH44Y8SS8JX))
+- [Logistic Regression with Python and Numpy (1 h)](https://www.coursera.org/learn/deep-learning-fundamentals-logistic-regression) ([CERT](https://www.coursera.org/account/accomplishments/verify/RHNXVT6A5HW3))
 - [Perform Sentiment Analysis with scikit-learn (1 h)](https://www.coursera.org/learn/scikit-learn-logistic-regression-sentiment-analysis) ([CERT](https://www.coursera.org/account/accomplishments/verify/N8AUE2QUEDBB))
 
 
@@ -220,6 +221,6 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 ### (A ∩ B ∩ C) - Data Science
 
 - [Complete Data Science Course (2 h)](https://www.coursera.org/learn/curso-completo-data-science) ([CERT](https://www.coursera.org/account/accomplishments/verify/JZJD82RARNKC))
-- [Evaluate Machine Learning Models with Yellowbrick (1h)](https://www.coursera.org/learn/machine-learning-model-yellowbrick) ([CERT](https://www.coursera.org/account/accomplishments/verify/N48YSZMRBGQ3))
-- [Perform Feature Analysis with Yellowbrick (2h)](https://www.coursera.org/learn/feature-analysis-yellowbrick) ([CERT](https://www.coursera.org/account/accomplishments/verify/HM97DL8FNCRY))
-- [Regression Analysis with Yellowbrick (1h)](https://www.coursera.org/learn/machine-learning-regression-yellowbrick) ([CERT](https://www.coursera.org/account/accomplishments/verify/V8WCW3XN4BUP))
+- [Evaluate Machine Learning Models with Yellowbrick (1 h)](https://www.coursera.org/learn/machine-learning-model-yellowbrick) ([CERT](https://www.coursera.org/account/accomplishments/verify/N48YSZMRBGQ3))
+- [Perform Feature Analysis with Yellowbrick (2 h)](https://www.coursera.org/learn/feature-analysis-yellowbrick) ([CERT](https://www.coursera.org/account/accomplishments/verify/HM97DL8FNCRY))
+- [Regression Analysis with Yellowbrick (1 h)](https://www.coursera.org/learn/machine-learning-regression-yellowbrick) ([CERT](https://www.coursera.org/account/accomplishments/verify/V8WCW3XN4BUP))
