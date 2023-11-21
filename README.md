@@ -220,3 +220,4 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 ### (A ∩ B ∩ C) - Data Science
 
 - [Complete Data Science Course (2 h)](https://www.coursera.org/learn/curso-completo-data-science) ([CERT](https://www.coursera.org/account/accomplishments/verify/JZJD82RARNKC))
+- [Evaluate Machine Learning Models with Yellowbrick (1h)](https://www.coursera.org/learn/machine-learning-model-yellowbrick) ([CERT](https://www.coursera.org/account/accomplishments/verify/N48YSZMRBGQ3))
