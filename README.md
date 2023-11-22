@@ -207,6 +207,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 #### Unsupervised
 
 - [Autoencoders and extremely infrequent events (2 h)](https://www.coursera.org/learn/autoencoders-y-eventos-extremadamente-infrecuentes) ([CERT](https://www.coursera.org/account/accomplishments/verify/2L4CZYJE37KM))
+- [Classification of Satellite data with autoML and Pycaret (2 h)](https://www.coursera.org/learn/clasificacion-datos-satelites-automl-pycaret) ([CERT](https://www.coursera.org/account/accomplishments/verify/3HMQJ4HYPCHF))
 - [Clustering Geolocation Data Intelligently in Python (1 h)](https://www.coursera.org/learn/clustering-geolocation-data-intelligently-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/J657KF6S2MYY))
 - [Creating a Wordcloud using NLP and TF-IDF in Python (2 h)](https://www.coursera.org/learn/wordcloud-nlp-tfidf-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/TM2F97EBTDNV))
 - [Dimensionality Reduction using an Autoencoder in Python (1 h)](https://www.coursera.org/learn/dimensionality-reduction-autoencoder-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/E4EVRDN2L78S))
