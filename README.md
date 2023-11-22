@@ -214,6 +214,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Dimensionality Reduction using an Autoencoder in Python (1 h)](https://www.coursera.org/learn/dimensionality-reduction-autoencoder-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/E4EVRDN2L78S))
 - [Exploring NLP with NLTK (1 h)](https://www.coursera.org/learn/lenguaje-natural-nltk) ([CERT](https://www.coursera.org/account/accomplishments/verify/H7XK68HZYD7Y))
 - [Image Compression with K-Means Clustering (1 h)](https://www.coursera.org/learn/scikit-learn-k-means-clustering-image-compression) ([CERT](https://www.coursera.org/account/accomplishments/verify/BP45X6HMEW9W))
+- [Interactive Word Embeddings using Word2Vec and Plotly (2 h)](https://www.coursera.org/learn/interactive-word2vec) ([CERT](https://www.coursera.org/account/accomplishments/verify/M7U2JQYEKXB5))
 - [K-Means Clustering 101: World Happiness Report (1 h)](https://www.coursera.org/learn/clustering-world-happiness-report) ([CERT](https://www.coursera.org/account/accomplishments/verify/ZUSBQ45RZ427))
 - [Neural Style Transfer with TensorFlow (1 h)](https://www.coursera.org/learn/neural-style-transfer) ([CERT](https://www.coursera.org/account/accomplishments/verify/LBXFJUAEG26Q))
 - [Principal Component Analysis with NumPy (1 h)](https://www.coursera.org/learn/principal-component-analysis-numpy) ([CERT](https://www.coursera.org/account/accomplishments/verify/X4H9CNSZXALM))
