@@ -162,6 +162,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Basic Image Classification with TensorFlow (2 h)](https://www.coursera.org/learn/tensorflow-beginner-basic-image-classification) ([CERT](https://www.coursera.org/account/accomplishments/verify/ZWSR33FEQ4K3))
 - [Classification with Transfer Learning in Keras (1 h)](https://www.coursera.org/learn/image-classification-transfer-learning-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/AY83L6JTQN6Q))
 - [Classify Radio Signals from Space using Keras (1 h)](https://www.coursera.org/learn/classify-radio-signals-space-keras-cnn) ([CERT](https://www.coursera.org/account/accomplishments/verify/KWR3RA7YFDA2))
+- [Deep Learning Complete Course (2 h)](https://www.coursera.org/learn/curso-completo-deep-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/K2NZLNJ2DFN6))
 - [Facial Expression Recognition with Keras (2 h)](https://www.coursera.org/learn/facial-expression-recognition-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/2MWV4MZNS5ES))
 - [Image Classification with CNNs using Keras (1 h)](https://www.coursera.org/learn/image-classification-cnn-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/3T5RUZUCY55H))
 - [Neural Network from Scratch in TensorFlow (1 h)](https://www.coursera.org/learn/neural-network-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/2S7JBV6HXBVD))
