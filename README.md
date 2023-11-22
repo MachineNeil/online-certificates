@@ -134,6 +134,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Create Custom Layers in Keras (1 h)](https://www.coursera.org/learn/custom-layers-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/838QES4CWE3F))
 - [Creating a NLM with Spacy (1 h)](https://www.coursera.org/learn/lenguage-natural-spacy) ([CERT](https://www.coursera.org/account/accomplishments/verify/PQK8SKHKG56J))
 - [Creating Custom Callbacks in Keras (1 h)](https://www.coursera.org/learn/custom-callbacks-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/U3Z5LEXAYER7))
+- [Creating Multi Task Models With Keras (1 h)](https://www.coursera.org/learn/multi-task-models-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/WLVTRRLVEQRB))
 - [Deep-Dive into Tensorflow Activation Functions (1 h)](https://www.coursera.org/learn/deep-dive-tensorflow-activation-functions) ([CERT](https://www.coursera.org/account/accomplishments/verify/FNKB2D7G7SCR))
 - [Diabetes Disease Detection with XG-Boost and Neural Networks (2 h)](https://www.coursera.org/learn/diabetes-disease-detection-with-xg-boost-and-neural-networks) ([CERT](https://www.coursera.org/account/accomplishments/verify/JTDHJN9WZSV8))
 - [Diabetic Retinopathy Detection with Artificial Intelligence (1 h)](https://www.coursera.org/learn/retinopathy-detection-using-deep-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/UCZAMYC2R5M2))
