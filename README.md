@@ -193,6 +193,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Multiple Linear Regression with scikit-learn (1 h)](https://www.coursera.org/learn/scikit-learn-multiple-linear-regression) ([CERT](https://www.coursera.org/account/accomplishments/verify/SJJH4RLYVVEB))
 - [Predicting House Prices with Regression using TensorFlow (1 h)](https://www.coursera.org/learn/tensorflow-beginner-predicting-house-prices-regression) ([CERT](https://www.coursera.org/account/accomplishments/verify/HVGNHRNT3MM2))
 - [Regression with Automatic Differentiation in TensorFlow (1 h)](https://www.coursera.org/learn/regression-automatic-differentiation-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/DWY38PNZRNJ8))
+- [Simple and multiple linear regression in Python (2 h)](https://www.coursera.org/learn/regresion-lineal-simple-y-multiple-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/8NDJL9GDS9A2))
 
 
 #### Unsupervised
