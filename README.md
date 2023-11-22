@@ -160,6 +160,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [TensorFlow for CNNs: Learn and Practice CNNs (2 h)](https://www.coursera.org/learn/tensorflow-for-cnns-learn-and-practice-cnns) ([CERT](https://www.coursera.org/account/accomplishments/verify/XAEYEULHPBVN))
 - [Time Series with Deep Learning (RNN, LSTM) and Prophet (3 h)](https://www.coursera.org/learn/series-temporales-con-deep-learning-rnn-lstm-prophet) ([CERT](https://www.coursera.org/account/accomplishments/verify/D6DL6NJPC6HK))
 - [Titanic Survival Prediction Using Machine Learning (2 h)](https://www.coursera.org/learn/titanic-survival-prediction-using-machine-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/JP6B5B8YWCQV))
+- [Tweet Emotion Recognition with TensorFlow (1 h)](https://www.coursera.org/learn/tweet-emotion-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/SDN8E88BAYB6))
 - [Understanding Deepfakes with Keras (1 h)](https://www.coursera.org/learn/deepfakes-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/NRSLYQCUYQ63))
 
 
