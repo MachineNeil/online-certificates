@@ -103,9 +103,13 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Git for Developers Using Github (2 h)](https://www.coursera.org/learn/git-for-developers-using-github) ([CERT](https://www.coursera.org/account/accomplishments/verify/6UPU2A6Z4XQC))
 
 
-#### Data Processing and Analysis
+#### Data Analysis and Visualization
 
+- [Advanced Data Visualization with Python (1 h)](https://www.coursera.org/learn/visualizacion-avanzada-datos-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/45MMP3EFCHFT))
+- [Analyze Text Data with Yellowbrick (1 h)](https://www.coursera.org/learn/analyze-text-data-yellowbrick) ([CERT](https://www.coursera.org/account/accomplishments/verify/6YKF424TB7LN))
+- [Data visualization with Seaborn (1 h)](https://www.coursera.org/learn/visualizacion-datos-seaborn) ([CERT](https://www.coursera.org/account/accomplishments/verify/VPFC8EQ8UFDL))
 - [Image Data Augmentation with Keras (1 h)](https://www.coursera.org/learn/data-augmentation-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/QGDMQ2NHYAK2))
+- [Python for Data Visualization: Matplotlib & Seaborn (Enhanced) (2 h)](https://www.coursera.org/learn/python-for-data-visualization-matplotlib-and-seaborn) ([CERT](https://www.coursera.org/account/accomplishments/verify/TFN65XU6NWRP))
 - [Save, Load and Export Models with Keras (1 h)](https://www.coursera.org/learn/save-load-export-keras-models) ([CERT](https://www.coursera.org/account/accomplishments/verify/C2WNKW45HVGG))
 
 
@@ -198,18 +202,15 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 
 #### Unsupervised
 
-- [Analyze Text Data with Yellowbrick (1 h)](https://www.coursera.org/learn/analyze-text-data-yellowbrick) ([CERT](https://www.coursera.org/account/accomplishments/verify/6YKF424TB7LN))
 - [Autoencoders and extremely infrequent events (2 h)](https://www.coursera.org/learn/autoencoders-y-eventos-extremadamente-infrecuentes) ([CERT](https://www.coursera.org/account/accomplishments/verify/2L4CZYJE37KM))
 - [Clustering Geolocation Data Intelligently in Python (1 h)](https://www.coursera.org/learn/clustering-geolocation-data-intelligently-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/J657KF6S2MYY))
 - [Creating a Wordcloud using NLP and TF-IDF in Python (2 h)](https://www.coursera.org/learn/wordcloud-nlp-tfidf-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/TM2F97EBTDNV))
-- [Data visualization with Seaborn (1 h)](https://www.coursera.org/learn/visualizacion-datos-seaborn) ([CERT](https://www.coursera.org/account/accomplishments/verify/VPFC8EQ8UFDL))
 - [Dimensionality Reduction using an Autoencoder in Python (1 h)](https://www.coursera.org/learn/dimensionality-reduction-autoencoder-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/E4EVRDN2L78S))
 - [Exploring NLP with NLTK (1 h)](https://www.coursera.org/learn/lenguaje-natural-nltk) ([CERT](https://www.coursera.org/account/accomplishments/verify/H7XK68HZYD7Y))
 - [Image Compression with K-Means Clustering (1 h)](https://www.coursera.org/learn/scikit-learn-k-means-clustering-image-compression) ([CERT](https://www.coursera.org/account/accomplishments/verify/BP45X6HMEW9W))
 - [K-Means Clustering 101: World Happiness Report (1 h)](https://www.coursera.org/learn/clustering-world-happiness-report) ([CERT](https://www.coursera.org/account/accomplishments/verify/ZUSBQ45RZ427))
 - [Neural Style Transfer with TensorFlow (1 h)](https://www.coursera.org/learn/neural-style-transfer) ([CERT](https://www.coursera.org/account/accomplishments/verify/LBXFJUAEG26Q))
 - [Principal Component Analysis with NumPy (1 h)](https://www.coursera.org/learn/principal-component-analysis-numpy) ([CERT](https://www.coursera.org/account/accomplishments/verify/X4H9CNSZXALM))
-- [Python for Data Visualization: Matplotlib & Seaborn (Enhanced) (2 h)](https://www.coursera.org/learn/python-for-data-visualization-matplotlib-and-seaborn) ([CERT](https://www.coursera.org/account/accomplishments/verify/TFN65XU6NWRP))
 - [Recognizing Shapes in Images with OpenCV (1 h)](https://www.coursera.org/learn/recognizing-shapes-images-opencv) ([CERT](https://www.coursera.org/account/accomplishments/verify/9MHTSVVGYLA6))
 - [Unsupervised Machine Learning for Customer Market Segmentation (1 h)](https://www.coursera.org/learn/machine-learning-for-customer-segmentation) ([CERT](https://www.coursera.org/account/accomplishments/verify/BD7QUU4FL3HS))
 
