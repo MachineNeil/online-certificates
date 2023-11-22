@@ -108,6 +108,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Advanced Data Visualization with Python (1 h)](https://www.coursera.org/learn/visualizacion-avanzada-datos-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/45MMP3EFCHFT))
 - [Analyze Text Data with Yellowbrick (1 h)](https://www.coursera.org/learn/analyze-text-data-yellowbrick) ([CERT](https://www.coursera.org/account/accomplishments/verify/6YKF424TB7LN))
 - [Data visualization with Seaborn (1 h)](https://www.coursera.org/learn/visualizacion-datos-seaborn) ([CERT](https://www.coursera.org/account/accomplishments/verify/VPFC8EQ8UFDL))
+- [Hyperparameter Tuning with Neural Network Intelligence (1 h)](https://www.coursera.org/learn/hyperparameter-tuning) ([CERT](https://www.coursera.org/account/accomplishments/verify/AT2U4XUWALZW))
 - [Image Data Augmentation with Keras (1 h)](https://www.coursera.org/learn/data-augmentation-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/QGDMQ2NHYAK2))
 - [Python for Data Visualization: Matplotlib & Seaborn (Enhanced) (2 h)](https://www.coursera.org/learn/python-for-data-visualization-matplotlib-and-seaborn) ([CERT](https://www.coursera.org/account/accomplishments/verify/TFN65XU6NWRP))
 - [Save, Load and Export Models with Keras (1 h)](https://www.coursera.org/learn/save-load-export-keras-models) ([CERT](https://www.coursera.org/account/accomplishments/verify/C2WNKW45HVGG))
