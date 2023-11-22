@@ -128,6 +128,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Bank Loan Approval Prediction With Artificial Neural Nets (1 h)](https://www.coursera.org/learn/loan-approval-prediction-using-neural-networks) ([CERT](https://www.coursera.org/account/accomplishments/verify/EA3ZT5MECKQW))
 - [Basic Sentiment Analysis with TensorFlow (1 h)](https://www.coursera.org/learn/basic-sentiment-analysis-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/7GYBUZJRT2AP))
 - [Cervical Cancer Risk Prediction Using Machine Learning (1 h)](https://www.coursera.org/learn/cervical-cancer-risk-prediction-using-machine-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/46XQ5C3EHYBV))
+- [Convolutional neural networks with Keras (2 h)](https://www.coursera.org/learn/redes-neuronales-convolucionales-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/4EU7YLAPZFVL))
 - [Convolutions for Text Classification with Keras (1 h)](https://www.coursera.org/learn/convolution-text-classification-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/WNZ92TN3R6SR))
 - [Create Custom Layers in Keras (1 h)](https://www.coursera.org/learn/custom-layers-keras) ([CERT](https://www.coursera.org/account/accomplishments/verify/838QES4CWE3F))
 - [Creating a NLM with Spacy (1 h)](https://www.coursera.org/learn/lenguage-natural-spacy) ([CERT](https://www.coursera.org/account/accomplishments/verify/PQK8SKHKG56J))
