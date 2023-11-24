@@ -25,6 +25,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 >
 > On a different note, links have a tendency to rot over time. Therefore, if you come across any indications of decay in this repository, please do let me know.
 
+
 ## Professional Certificates
 
 - [DeepLearning.AI TensorFlow Developer Professional Certificate (80 h)](https://www.coursera.org/specializations/tensorflow-in-practice) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/professional-cert/HWSFCBHCTTMQ))
@@ -43,6 +44,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
   5. [Regression Analysis: Simplify Complex Data Relationships (34 h)](https://www.coursera.org/learn/regression-analysis-simplify-complex-data-relationships) ([CERT](https://www.coursera.org/account/accomplishments/verify/DVHEPNUU5DUM))
   6. [The Nuts and Bolts of Machine Learning (37 h)](https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/PQ7GB4HSBU83))
   7. [The Power of Statistics (37 h)](https://www.coursera.org/learn/the-power-of-statistics) ([CERT](https://www.coursera.org/account/accomplishments/verify/ADE2YJMM6GZF))
+
 
 ## Specializations
 
@@ -67,6 +69,12 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 
 ### (C) - Domain Expertise
 
+- [AI for Good (34 h)](https://www.coursera.org/specializations/ai-for-good) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/FKEAMTVSNM99))
+  
+  1. [AI and Climate Change (14 h)](https://www.coursera.org/learn/ai-and-climate-change) ([CERT](https://www.coursera.org/account/accomplishments/verify/72KF59964CWD))
+  2. [AI and Disaster Management (11 h)](https://www.coursera.org/learn/ai-and-disaster-management) ([CERT](https://www.coursera.org/account/accomplishments/verify/LNK2ARP39MGC))
+  3. [AI and Public Health (9 h)](https://www.coursera.org/learn/ai-and-public-health) ([CERT](https://www.coursera.org/account/accomplishments/verify/DQQJQ3T9CYN9))
+
 - [Mind and Machine Specialization (35 h)](https://www.coursera.org/specializations/mind-machine) (University of Colorado Boulder) ([CERT](https://www.coursera.org/account/accomplishments/specialization/GRPCHBYGJENJ))
 
   1. [Computational Vision (8 h)](https://www.coursera.org/learn/mind-machine-computational-vision) ([CERT](https://www.coursera.org/account/accomplishments/verify/YK3GF3R6CMPN))
@@ -74,7 +82,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
   3. [Methods for Solving Problems (6 h)](https://www.coursera.org/learn/mind-machine-problem-solving-methods) ([CERT](https://www.coursera.org/account/accomplishments/verify/9YYBUKB6B3BR))
   4. [What is “the mind” and what is artificial intelligence? (7 h)](https://www.coursera.org/learn/mind-machine-artificial-intelligence) ([CERT](https://www.coursera.org/account/accomplishments/verify/FPECXBLFSP5T))
 
-
+  
 ### (A ∩ B) - Machine Learning
 
 - [Deep Learning Specialization (125 h)](https://www.coursera.org/specializations/deep-learning) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/HPT3QS9ESLTE))
