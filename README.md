@@ -34,6 +34,15 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
   3. [Natural Language Processing in TensorFlow (24 h)](https://www.coursera.org/learn/natural-language-processing-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/V92P6Y9VRWMH))
   4. [Sequences, Time Series and Prediction (22 h)](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) ([CERT](https://www.coursera.org/account/accomplishments/verify/FYCTJMQSGT5C))
 
+- [Google Advanced Data Analytics (165 h)](https://www.coursera.org/specializations/google-advanced-data-analytics) (Google) ([CERT](https://www.coursera.org/account/accomplishments/professional-cert/726VEV2N7TMT))
+
+  1. [Foundations of Data Science (23 h)](https://www.coursera.org/learn/foundations-of-data-science) ([CERT](https://www.coursera.org/account/accomplishments/verify/TX93X43AAHVM))
+  2. [Get Started with Python (30 h)](https://www.coursera.org/learn/get-started-with-python) ([CERT](https://www.coursera.org/account/accomplishments/verify/5TPCYM5FA8E3))
+  3. [Go Beyond the Numbers: Translate Data into Insights (32 h)](https://www.coursera.org/learn/go-beyond-the-numbers-translate-data-into-insight) ([CERT](https://www.coursera.org/account/accomplishments/verify/3CNNYHWX2KL3))
+  4. [Google Advanced Data Analytics Capstone (9 h)](https://www.coursera.org/learn/google-advanced-data-analytics-capstone) ([CERT](https://www.coursera.org/account/accomplishments/verify/SARGWPZRAPCC))
+  5. [Regression Analysis: Simplify Complex Data Relationships (34 h)](https://www.coursera.org/learn/regression-analysis-simplify-complex-data-relationships) ([CERT](https://www.coursera.org/account/accomplishments/verify/DVHEPNUU5DUM))
+  6. [The Nuts and Bolts of Machine Learning (37 h)](https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/PQ7GB4HSBU83))
+  7. [The Power of Statistics (37 h)](https://www.coursera.org/learn/the-power-of-statistics) ([CERT](https://www.coursera.org/account/accomplishments/verify/ADE2YJMM6GZF))
 
 ## Specializations
 
@@ -61,8 +70,8 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Mind and Machine Specialization (35 h)](https://www.coursera.org/specializations/mind-machine) (University of Colorado Boulder) ([CERT](https://www.coursera.org/account/accomplishments/specialization/GRPCHBYGJENJ))
 
   1. [Computational Vision (8 h)](https://www.coursera.org/learn/mind-machine-computational-vision) ([CERT](https://www.coursera.org/account/accomplishments/verify/YK3GF3R6CMPN))
-  2. [Methods for Solving Problems (6 h)](https://www.coursera.org/learn/mind-machine-problem-solving-methods) ([CERT](https://www.coursera.org/account/accomplishments/verify/9YYBUKB6B3BR))
-  3. [Interpersonal, Developmental, and Evolutionary Perspectives of the Mind (12 h)](https://www.coursera.org/learn/mind-machine-perspectives) ([CERT](https://www.coursera.org/account/accomplishments/verify/FXH5GTJTZ7MB))
+  2. [Interpersonal, Developmental, and Evolutionary Perspectives of the Mind (12 h)](https://www.coursera.org/learn/mind-machine-perspectives) ([CERT](https://www.coursera.org/account/accomplishments/verify/FXH5GTJTZ7MB))
+  3. [Methods for Solving Problems (6 h)](https://www.coursera.org/learn/mind-machine-problem-solving-methods) ([CERT](https://www.coursera.org/account/accomplishments/verify/9YYBUKB6B3BR))
   4. [What is “the mind” and what is artificial intelligence? (7 h)](https://www.coursera.org/learn/mind-machine-artificial-intelligence) ([CERT](https://www.coursera.org/account/accomplishments/verify/FPECXBLFSP5T))
 
 
