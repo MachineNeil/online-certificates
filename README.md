@@ -88,7 +88,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [AI for Medicine (71 h)](https://www.coursera.org/specializations/ai-for-medicine) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/7ZX9M6ANKKZM))
   1. [AI for Medical Diagnosis (20 h)](https://www.coursera.org/learn/ai-for-medical-diagnosis) ([CERT](https://www.coursera.org/account/accomplishments/verify/EL8B9KRWLWY5))
   2. [AI for Medical Prognosis (29 h)](https://www.coursera.org/learn/ai-for-medical-prognosis) ([CERT](https://www.coursera.org/account/accomplishments/verify/7YPEMJEEWCYJ))
-  3. [AI For Medical Treatment (22 h)](https://www.coursera.org/learn/ai-for-medical-treatment) ([CERT](https://www.coursera.org/account/accomplishments/verify/JEG9UN9PRVBX))
+  3. [AI for Medical Treatment (22 h)](https://www.coursera.org/learn/ai-for-medical-treatment) ([CERT](https://www.coursera.org/account/accomplishments/verify/JEG9UN9PRVBX))
 
 - [Deep Learning Specialization (125 h)](https://www.coursera.org/specializations/deep-learning) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/HPT3QS9ESLTE))
   1. [Convolutional Neural Networks (35 h)](https://www.coursera.org/learn/convolutional-neural-networks) ([CERT](https://www.coursera.org/account/accomplishments/verify/VYGH6ULVSKN4))
