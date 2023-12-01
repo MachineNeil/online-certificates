@@ -56,6 +56,13 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
   6. [The Nuts and Bolts of Machine Learning (37 h)](https://www.coursera.org/learn/the-nuts-and-bolts-of-machine-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/PQ7GB4HSBU83))
   7. [The Power of Statistics (37 h)](https://www.coursera.org/learn/the-power-of-statistics) ([CERT](https://www.coursera.org/account/accomplishments/verify/ADE2YJMM6GZF))
 
+- [Google Professional Workspace Administrator (18 h)](https://www.coursera.org/specializations/g-suite-administration) (Google Cloud) ([CERT](https://www.coursera.org/account/accomplishments/professional-cert/52UNBRXD2SFW))
+
+  1. [Google Workspace Mail Management (4 h)](https://www.coursera.org/learn/google-workspace-mail-management) ([CERT](https://www.coursera.org/account/accomplishments/verify/7MMVZP7YWUCF))
+  2. [Google Workspace Security (4 h)](https://www.coursera.org/learn/google-workspace-security) ([CERT](https://www.coursera.org/account/accomplishments/verify/6SD42CJZAF4H))
+  3. [Introduction to Google Workspace Administration (4 h)](https://www.coursera.org/learn/introduction-google-workspace) ([CERT](https://www.coursera.org/account/accomplishments/verify/FU3WLDJ72TX7))
+  4. [Managing Google Workspace (5 h)](https://www.coursera.org/learn/managing-google-workspace) ([CERT](https://www.coursera.org/account/accomplishments/verify/VLAQC4P6D6XJ))
+  5. [Planning for a Google Workspace Deployment (1 h)](https://www.coursera.org/learn/deploying-google-workspace) ([CERT](https://www.coursera.org/account/accomplishments/verify/KU988VLAP2AV))
 
 ## Specializations
 
