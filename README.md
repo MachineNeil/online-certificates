@@ -35,6 +35,17 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
   3. [Natural Language Processing in TensorFlow (24 h)](https://www.coursera.org/learn/natural-language-processing-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/V92P6Y9VRWMH))
   4. [Sequences, Time Series and Prediction (22 h)](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction) ([CERT](https://www.coursera.org/account/accomplishments/verify/FYCTJMQSGT5C))
 
+- [Google Data Analytics (186 h)](https://www.coursera.org/specializations/google-data-analytics) (Google) ([CERT](https://www.coursera.org/account/accomplishments/professional-cert/SBRQ7EGJRFZF))
+
+  1. [Analyze Data to Answer Questions (26 h)](https://www.coursera.org/learn/analyze-data) ([CERT](https://www.coursera.org/account/accomplishments/verify/ULYEXEYCCPUB))
+  2. [Ask Questions to Make Data-Driven Decisions (21 h)](https://www.coursera.org/learn/ask-questions-make-decisions) ([CERT](https://www.coursera.org/account/accomplishments/verify/PDCRCEMK6ZDX))
+  3. [Data Analysis with R Programming (36 h)](https://www.coursera.org/learn/data-analysis-r) ([CERT](https://www.coursera.org/account/accomplishments/verify/6ZW7CMD234C7))
+  4. [Foundations: Data, Data, Everywhere (22 h)](https://www.coursera.org/learn/foundations-data) ([CERT](https://www.coursera.org/account/accomplishments/verify/7RFCDA5KKF4X))
+  5. [Google Data Analytics Capstone: Complete a Case Study (9 h)](https://www.coursera.org/learn/google-data-analytics-capstone) ([CERT](https://www.coursera.org/account/accomplishments/verify/59RAY7E4HXTL))
+  6. [Prepare Data for Exploration (25 h)](https://www.coursera.org/learn/data-preparation) ([CERT](https://www.coursera.org/account/accomplishments/verify/YMGJ6HFE7W65))
+  7. [Process Data from Dirty to Clean (23 h)](https://www.coursera.org/learn/process-data) ([CERT](https://www.coursera.org/account/accomplishments/verify/TZLWLCM4EJSU))
+  8. [Share Data Through the Art of Visualization (24 h)](https://www.coursera.org/learn/visualize-data) ([CERT](https://www.coursera.org/account/accomplishments/verify/LBNYYKZHRB2S))
+
 - [Google Advanced Data Analytics (165 h)](https://www.coursera.org/specializations/google-advanced-data-analytics) (Google) ([CERT](https://www.coursera.org/account/accomplishments/professional-cert/726VEV2N7TMT))
 
   1. [Foundations of Data Science (23 h)](https://www.coursera.org/learn/foundations-of-data-science) ([CERT](https://www.coursera.org/account/accomplishments/verify/TX93X43AAHVM))
