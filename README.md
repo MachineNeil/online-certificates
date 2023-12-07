@@ -108,6 +108,11 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
   2. [AI for Medical Prognosis (29 h)](https://www.coursera.org/learn/ai-for-medical-prognosis) ([CERT](https://www.coursera.org/account/accomplishments/verify/7YPEMJEEWCYJ))
   3. [AI for Medical Treatment (22 h)](https://www.coursera.org/learn/ai-for-medical-treatment) ([CERT](https://www.coursera.org/account/accomplishments/verify/JEG9UN9PRVBX))
 
+- [Deep Learning for Healthcare (62 h)](https://www.coursera.org/specializations/deep-learning-healthcare) (University of Illinois) ([CERT](https://www.coursera.org/account/accomplishments/specialization/YVBZ54JF5566))
+  1. [Advanced Deep Learning Methods for Healthcare (16 h)](https://www.coursera.org/learn/advanced-deep-learning-methods-healthcare) ([CERT](https://www.coursera.org/account/accomplishments/verify/KUZM93Z4VQHE))
+  2. [Deep Learning Methods for Healthcare (22 h)](https://www.coursera.org/learn/deep-learning-methods-healthcare) ([CERT](https://www.coursera.org/account/accomplishments/verify/5FNENEEGVK7T))
+  3. [Health Data Science Foundation (24 h)](https://www.coursera.org/learn/health-data-science-foundation) ([CERT](https://www.coursera.org/account/accomplishments/verify/7JZDQVX7ESXB))
+
 - [Deep Learning Specialization (125 h)](https://www.coursera.org/specializations/deep-learning) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/HPT3QS9ESLTE))
   1. [Convolutional Neural Networks (35 h)](https://www.coursera.org/learn/convolutional-neural-networks) ([CERT](https://www.coursera.org/account/accomplishments/verify/VYGH6ULVSKN4))
   2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (23 h)](https://www.coursera.org/learn/deep-neural-network) ([CERT](https://www.coursera.org/account/accomplishments/verify/ST4B3NKVWUG2))
