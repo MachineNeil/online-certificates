@@ -139,6 +139,13 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Nanotechnology: A Maker’s Course (26 h)](https://www.coursera.org/learn/nanotechnology) (Duke University) ([CERT](https://www.coursera.org/account/accomplishments/verify/JT7FNN2RN94N))
 
 
+### (A ∩ B ∩ C) - Data Science
+
+- [Algorithms for DNA Sequencing (12 h)](https://www.coursera.org/learn/dna-sequencing) (Johns Hopkins University) ([CERT](https://www.coursera.org/account/accomplishments/verify/BL3V3BVR9HTN))
+- [Introduction to Genomic Technologies (6 h)](https://www.coursera.org/learn/introduction-genomics) (Johns Hopkins University) ([CERT](https://www.coursera.org/account/accomplishments/verify/ET873Q5RXN2A))
+- [Python for Genomic Data Science (8 h)](https://www.coursera.org/learn/python-genomics) (Johns Hopkins University) ([CERT](https://www.coursera.org/account/accomplishments/verify/GFB6SN4KSQN2))
+
+
 ## Guided Projects
 
 ### (A) - Computer Science
