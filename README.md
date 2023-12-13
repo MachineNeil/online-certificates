@@ -24,6 +24,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 > There is a possibility that the classification of certain certificates may be inaccurate. Likewise, the subdivision of specific areas could inaccurate or redundant. Should you have any insights or recommendations for improvement in either of these aspects, I would greatly appreciate your input.
 >
 > On a different note, links have a tendency to rot over time. Therefore, if you come across any indications of decay in this repository, please do let me know.
+
 <br>
 
 ---
@@ -67,6 +68,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
   3. [Introduction to Google Workspace Administration (4 h)](https://www.coursera.org/learn/introduction-google-workspace) ([CERT](https://www.coursera.org/account/accomplishments/verify/FU3WLDJ72TX7))
   4. [Managing Google Workspace (5 h)](https://www.coursera.org/learn/managing-google-workspace) ([CERT](https://www.coursera.org/account/accomplishments/verify/VLAQC4P6D6XJ))
   5. [Planning for a Google Workspace Deployment (1 h)](https://www.coursera.org/learn/deploying-google-workspace) ([CERT](https://www.coursera.org/account/accomplishments/verify/KU988VLAP2AV))
+
 <br>
 
 ---
@@ -139,6 +141,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
   2. [Natural Language Processing with Classification and Vector Spaces (33 h)](https://www.coursera.org/learn/classification-vector-spaces-in-nlp) ([CERT](https://www.coursera.org/account/accomplishments/verify/WJ66WFVU3K52))
   3. [Natural Language Processing with Probabilistic Models (30 h)](https://www.coursera.org/learn/probabilistic-models-in-nlp) ([CERT](https://www.coursera.org/account/accomplishments/verify/KNEA9SVPP333))
   4. [Natural Language Processing with Sequence Models (23 h)](https://www.coursera.org/learn/sequence-models-in-nlp) ([CERT](https://www.coursera.org/account/accomplishments/verify/BNR4XDQ7CLHW))
+
 <br>
 
 ---
@@ -157,6 +160,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Algorithms for DNA Sequencing (12 h)](https://www.coursera.org/learn/dna-sequencing) (Johns Hopkins University) ([CERT](https://www.coursera.org/account/accomplishments/verify/BL3V3BVR9HTN))
 - [Introduction to Genomic Technologies (6 h)](https://www.coursera.org/learn/introduction-genomics) (Johns Hopkins University) ([CERT](https://www.coursera.org/account/accomplishments/verify/ET873Q5RXN2A))
 - [Python for Genomic Data Science (8 h)](https://www.coursera.org/learn/python-genomics) (Johns Hopkins University) ([CERT](https://www.coursera.org/account/accomplishments/verify/GFB6SN4KSQN2))
+
 <br>
 
 ---
