@@ -329,6 +329,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Cloud Network Engineer Professional Certificate](https://www.coursera.org/professional-certificates/google-cloud-networking)
 - [Cloud Security Engineer Professional Certificate](https://www.coursera.org/professional-certificates/google-cloud-security)
 - [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
+- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
 - [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
 - [Machine Learning Engineer Professional Certificate](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 - [Machine Learning on Google Cloud Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
