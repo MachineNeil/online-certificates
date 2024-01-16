@@ -355,7 +355,6 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Machine Learning for Marketing Specialization](https://www.coursera.org/specializations/machine-learning-for-marketing)
 - [Machine Learning Engineer Professional Certificate](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 - [Machine Learning on Google Cloud Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
-- [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning)
 - [Materials Data Sciences and Informatics](https://www.coursera.org/learn/material-informatics)
 - [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
 - [Networking in Google Cloud Specialization](https://www.coursera.org/specializations/networking-google-cloud-platform)
