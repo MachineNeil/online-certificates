@@ -142,6 +142,12 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
   3. [Natural Language Processing with Probabilistic Models (30 h)](https://www.coursera.org/learn/probabilistic-models-in-nlp) ([CERT](https://www.coursera.org/account/accomplishments/verify/KNEA9SVPP333))
   4. [Natural Language Processing with Sequence Models (23 h)](https://www.coursera.org/learn/sequence-models-in-nlp) ([CERT](https://www.coursera.org/account/accomplishments/verify/BNR4XDQ7CLHW))
 
+- [Natural Language Processing Specialization (45 h)](https://www.coursera.org/specializations/nlp) (Universidad Austral) ([CERT](https://www.coursera.org/account/accomplishments/specialization/KFWBFHP5Q6TE))
+  1. [Introduction to natural language processing (13 h)](https://www.coursera.org/learn/introduccion-al-procesamiento-de-lenguaje-natural) ([CERT](https://www.coursera.org/account/accomplishments/verify/A2F4FREEKU4L))
+  2. [Data cleansing for natural language processing (12 h)](https://www.coursera.org/learn/limpieza-de-datos-para-el-procesamiento-de-lenguaje-natural) ([CERT](https://www.coursera.org/account/accomplishments/verify/CD85WZBAQQZL))
+  3. [NLP Models and Algorithms (10 h)](https://www.coursera.org/learn/nlp-modelos-y-algoritmos) ([CERT](https://www.coursera.org/account/accomplishments/verify/Y8BFFZLFEYTM))
+  4. [NLP System Architecture and Dev-Ops (10 h)](https://www.coursera.org/learn/nlp-system-architecture-and-dev-ops) ([CERT](https://www.coursera.org/account/accomplishments/verify/32M4RP4XD3ML))
+
 <br>
 
 ---
@@ -354,7 +360,6 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
 - [Networking in Google Cloud Specialization](https://www.coursera.org/specializations/networking-google-cloud-platform)
 - [Power Electronics Specialization](https://www.coursera.org/specializations/power-electronics)
-- [Procesamiento de Lenguaje Natural Specialization](https://www.coursera.org/specializations/nlp)
 - [Python NLTK for Beginners: Customer Satisfaction Analysis](https://www.coursera.org/projects/python-nltk-for-beginners-customer-satisfaction-analysis)
 - [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars)
 - [Statistical Learning](https://www.coursera.org/learn/illinois-tech-statistical-learning)
