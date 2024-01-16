@@ -329,7 +329,6 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [AWS Cloud Solutions Architect Professional Certificate](https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect)
 - [AWS Cloud Technology Consultant Professional Certificate](https://www.coursera.org/professional-certificates/aws-cloud-technology-consultant)
 - [AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)
-- [Clinical Natural Language Processing](https://www.coursera.org/learn/clinical-natural-language-processing)
 - [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)
 - [Cloud Architect Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
 - [Cloud Computing Basics (Cloud 101)](https://www.coursera.org/learn/cloud-computing-basics)
