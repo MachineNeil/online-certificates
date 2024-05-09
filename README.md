@@ -158,7 +158,10 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 
 ### (C) Domain Expertise
 
+- [Chemical Hazards: Toxicology & Reactivity (8 h)](https://www.coursera.org/learn/chemical-hazards-toxicology-and-reactivity) (University of California, Davis) (CERT UNAVAILABLE)
 - [Nanotechnology: A Maker’s Course (26 h)](https://www.coursera.org/learn/nanotechnology) (Duke University) ([CERT](https://www.coursera.org/account/accomplishments/verify/JT7FNN2RN94N))
+- [Protecting the World: Introducing Corrosion Science and Engineering (11 h)](https://www.coursera.org/learn/corrosion) (University of Manchester) ([CERT](https://www.coursera.org/account/accomplishments/verify/4UPG54DASAP4))
+- [Water: an essential resource (3 h)](https://www.coursera.org/learn/water-an-essential-resource) (Politecnico di Milano) ([CERT](https://www.coursera.org/account/accomplishments/verify/HTZ3BF5Q53AM))
 
 
 ### (A ∩ B ∩ C) - Data Science
