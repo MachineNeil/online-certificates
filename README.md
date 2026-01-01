@@ -33,7 +33,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 
 ## Professional Certificates
 
-- [DeepLearning.AI TensorFlow Developer Professional Certificate (80 h)](https://www.coursera.org/specializations/tensorflow-in-practice) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/professional-cert/HWSFCBHCTTMQ))
+- [DeepLearning.AI TensorFlow Developer (80 h)](https://www.coursera.org/specializations/tensorflow-in-practice) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/professional-cert/HWSFCBHCTTMQ))
 
   1. [Convolutional Neural Networks in TensorFlow (16 h)](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/BKNZSQAW4T3D))
   2. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning (18 h)](https://www.coursera.org/learn/introduction-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/VX27ZKP8YWAL))
@@ -79,7 +79,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 
 ### (A) - Computer Science
 
-- [TensorFlow: Advanced Techniques Specialization (90 h)](https://www.coursera.org/specializations/tensorflow-advanced-techniques) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/BQS9R783FDAW))
+- [TensorFlow: Advanced Techniques (90 h)](https://www.coursera.org/specializations/tensorflow-advanced-techniques) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/BQS9R783FDAW))
 
   1. [Advanced Computer Vision with TensorFlow (19 h)](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/9FECL3ZXTHZE))
   2. [Custom and Distributed Training with TensorFlow (24 h)](https://www.coursera.org/learn/custom-distributed-training-with-tensorflow) ([CERT](https://www.coursera.org/account/accomplishments/verify/Q77VJFGDKN39))
@@ -89,7 +89,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 
 ### (B) - Mathematics & Statistics
 
-- [Mathematics for Machine Learning and Data Science Specialization (74 h)](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/S2HFX9HLC4GJ))
+- [Mathematics for Machine Learning and Data Science (74 h)](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/S2HFX9HLC4GJ))
 
   1. [Calculus for Machine Learning and Data Science (25 h)](https://www.coursera.org/learn/machine-learning-calculus) ([CERT](https://www.coursera.org/account/accomplishments/verify/RX2VV5EU6NE4))
   2. [Linear Algebra for Machine Learning and Data Science (21 h)](https://www.coursera.org/learn/machine-learning-linear-algebra) ([CERT](https://www.coursera.org/account/accomplishments/verify/XYYBNRJ4MLKM))
@@ -104,7 +104,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
   2. [AI and Disaster Management (11 h)](https://www.coursera.org/learn/ai-and-disaster-management) ([CERT](https://www.coursera.org/account/accomplishments/verify/LNK2ARP39MGC))
   3. [AI and Public Health (9 h)](https://www.coursera.org/learn/ai-and-public-health) ([CERT](https://www.coursera.org/account/accomplishments/verify/DQQJQ3T9CYN9))
 
-- [Mind and Machine Specialization (35 h)](https://www.coursera.org/specializations/mind-machine) (University of Colorado Boulder) ([CERT](https://www.coursera.org/account/accomplishments/specialization/GRPCHBYGJENJ))
+- [Mind and Machine (35 h)](https://www.coursera.org/specializations/mind-machine) (University of Colorado Boulder) ([CERT](https://www.coursera.org/account/accomplishments/specialization/GRPCHBYGJENJ))
 
   1. [Computational Vision (8 h)](https://www.coursera.org/learn/mind-machine-computational-vision) ([CERT](https://www.coursera.org/account/accomplishments/verify/YK3GF3R6CMPN))
   2. [Interpersonal, Developmental, and Evolutionary Perspectives of the Mind (12 h)](https://www.coursera.org/learn/mind-machine-perspectives) ([CERT](https://www.coursera.org/account/accomplishments/verify/FXH5GTJTZ7MB))
@@ -124,25 +124,25 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
   2. [Deep Learning Methods for Healthcare (22 h)](https://www.coursera.org/learn/deep-learning-methods-healthcare) ([CERT](https://www.coursera.org/account/accomplishments/verify/5FNENEEGVK7T))
   3. [Health Data Science Foundation (24 h)](https://www.coursera.org/learn/health-data-science-foundation) ([CERT](https://www.coursera.org/account/accomplishments/verify/7JZDQVX7ESXB))
 
-- [Deep Learning Specialization (125 h)](https://www.coursera.org/specializations/deep-learning) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/HPT3QS9ESLTE))
+- [Deep Learning (125 h)](https://www.coursera.org/specializations/deep-learning) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/HPT3QS9ESLTE))
   1. [Convolutional Neural Networks (35 h)](https://www.coursera.org/learn/convolutional-neural-networks) ([CERT](https://www.coursera.org/account/accomplishments/verify/VYGH6ULVSKN4))
   2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (23 h)](https://www.coursera.org/learn/deep-neural-network) ([CERT](https://www.coursera.org/account/accomplishments/verify/ST4B3NKVWUG2))
   3. [Neural Networks and Deep Learning (24 h)](https://www.coursera.org/learn/neural-networks-deep-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/7FNKHYUF8QXS))
   4. [Structuring Machine Learning Projects (6 h)](https://www.coursera.org/learn/machine-learning-projects) ([CERT](https://www.coursera.org/account/accomplishments/verify/UC68953RV4XP))
   5. [Sequence Models (37 h)](https://www.coursera.org/learn/nlp-sequence-models) ([CERT](https://www.coursera.org/account/accomplishments/verify/UKHT6NKJ9Z7M))
     
-- [Machine Learning Specialization (94 h)](https://www.coursera.org/specializations/machine-learning-introduction) (deeplearning.ai, Stanford University) ([CERT](https://www.coursera.org/account/accomplishments/specialization/B2NG2R5BREA6))
+- [Machine Learning (94 h)](https://www.coursera.org/specializations/machine-learning-introduction) (deeplearning.ai, Stanford University) ([CERT](https://www.coursera.org/account/accomplishments/specialization/B2NG2R5BREA6))
   1. [Advanced Learning Algorithms (34 h)](https://www.coursera.org/learn/advanced-learning-algorithms) ([CERT](https://www.coursera.org/account/accomplishments/verify/Q4A983PAZ9WZ))
   2. [Supervised Machine Learning: Regression and Classification (33 h)](https://www.coursera.org/learn/machine-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/ZY7C5EMEPCB8))
   3. [Unsupervised Learning, Recommenders, Reinforcement Learning (27 h)](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning) ([CERT](https://www.coursera.org/account/accomplishments/verify/AFQW9LFP9NYZ))
   
-- [Natural Language Processing Specialization (121 h)](https://www.coursera.org/specializations/natural-language-processing) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/UUKAD49AEMPC))
+- [Natural Language Processing (121 h)](https://www.coursera.org/specializations/natural-language-processing) (deeplearning.ai) ([CERT](https://www.coursera.org/account/accomplishments/specialization/UUKAD49AEMPC))
   1. [Natural Language Processing with Attention Models (35 h)](https://www.coursera.org/learn/attention-models-in-nlp) ([CERT](https://www.coursera.org/account/accomplishments/verify/484AB36GUB4Z))
   2. [Natural Language Processing with Classification and Vector Spaces (33 h)](https://www.coursera.org/learn/classification-vector-spaces-in-nlp) ([CERT](https://www.coursera.org/account/accomplishments/verify/WJ66WFVU3K52))
   3. [Natural Language Processing with Probabilistic Models (30 h)](https://www.coursera.org/learn/probabilistic-models-in-nlp) ([CERT](https://www.coursera.org/account/accomplishments/verify/KNEA9SVPP333))
   4. [Natural Language Processing with Sequence Models (23 h)](https://www.coursera.org/learn/sequence-models-in-nlp) ([CERT](https://www.coursera.org/account/accomplishments/verify/BNR4XDQ7CLHW))
 
-- [Natural Language Processing Specialization (45 h)](https://www.coursera.org/specializations/nlp) (Universidad Austral) ([CERT](https://www.coursera.org/account/accomplishments/specialization/KFWBFHP5Q6TE))
+- [Natural Language Processing (45 h)](https://www.coursera.org/specializations/nlp) (Universidad Austral) ([CERT](https://www.coursera.org/account/accomplishments/specialization/KFWBFHP5Q6TE))
   1. [Introduction to natural language processing (13 h)](https://www.coursera.org/learn/introduccion-al-procesamiento-de-lenguaje-natural) ([CERT](https://www.coursera.org/account/accomplishments/verify/A2F4FREEKU4L))
   2. [Data cleansing for natural language processing (12 h)](https://www.coursera.org/learn/limpieza-de-datos-para-el-procesamiento-de-lenguaje-natural) ([CERT](https://www.coursera.org/account/accomplishments/verify/CD85WZBAQQZL))
   3. [NLP Models and Algorithms (10 h)](https://www.coursera.org/learn/nlp-modelos-y-algoritmos) ([CERT](https://www.coursera.org/account/accomplishments/verify/Y8BFFZLFEYTM))
