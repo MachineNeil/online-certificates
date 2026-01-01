@@ -1,6 +1,6 @@
-# My completed online Data Science certificates
+# My online certificates
 
-The purpose of this repository is to showcase my self-motivated, hands-on development in Data Science, which I attempt to classify with the aid of the following Venn diagram. Specifically, my goal is the mastery of artificial intelligence and its myriad derivatives from a technical perspective, so this will be an ever-evolving endeavor.
+The purpose of this repository is to showcase my self-motivated, hands-on development, which I attempt to classify with the aid of the following Venn diagram. This will be an ever-evolving endeavor.
 
 <p align="center">
   <img src="https://github.com/MachineNeil/online-certificates/assets/112895385/55ef28b7-8267-4722-9f9f-27eaf72aa8ae"/>
@@ -21,7 +21,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 > > **Guided Project**: _a hands-on educational experience focused on teaching a single skill or technique through step-by-step instruction and practice followed by a quiz._
 
 > [!WARNING]
-> There is a possibility that the classification of certain certificates may be inaccurate. Likewise, the subdivision of specific areas could inaccurate or redundant. Should you have any insights or recommendations for improvement in either of these aspects, I would greatly appreciate your input.
+> There is a possibility that the classification of certain certificates may be inaccurate. Likewise, the subdivision of specific areas could be inaccurate or redundant. Should you have any insights or recommendations for improvement in either of these aspects, I would greatly appreciate your input.
 >
 > On a different note, links have a tendency to rot over time. Therefore, if you come across any indications of decay in this repository, please do let me know.
 
@@ -159,6 +159,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 ### (C) Domain Expertise
 
 - [Chemical Hazards: Toxicology & Reactivity (8 h)](https://www.coursera.org/learn/chemical-hazards-toxicology-and-reactivity) (University of California, Davis) (CERT UNAVAILABLE)
+- [Industrial Biotechnology (11 h)](https://www.coursera.org/learn/industrial-biotech) (The University of Manchester) ([CERT](https://www.coursera.org/account/accomplishments/verify/JWZRIX5Q74DH))
 - [Nanotechnology: A Maker’s Course (26 h)](https://www.coursera.org/learn/nanotechnology) (Duke University) ([CERT](https://www.coursera.org/account/accomplishments/verify/JT7FNN2RN94N))
 - [Protecting the World: Introducing Corrosion Science and Engineering (11 h)](https://www.coursera.org/learn/corrosion) (University of Manchester) ([CERT](https://www.coursera.org/account/accomplishments/verify/4UPG54DASAP4))
 - [Water: an essential resource (3 h)](https://www.coursera.org/learn/water-an-essential-resource) (Politecnico di Milano) ([CERT](https://www.coursera.org/account/accomplishments/verify/HTZ3BF5Q53AM))
@@ -322,47 +323,3 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 - [Regression Analysis with Yellowbrick (1 h)](https://www.coursera.org/learn/machine-learning-regression-yellowbrick) ([CERT](https://www.coursera.org/account/accomplishments/verify/V8WCW3XN4BUP))
 
 <br>
-
----
-
-<br>
-
-## In progress / Postponed
-- [Advanced Machine Learning on Google Cloud Specialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
-- [AWS Cloud Solutions Architect Professional Certificate](https://www.coursera.org/professional-certificates/aws-cloud-solutions-architect)
-- [AWS Cloud Technology Consultant Professional Certificate](https://www.coursera.org/professional-certificates/aws-cloud-technology-consultant)
-- [AWS Fundamentals Specialization](https://www.coursera.org/specializations/aws-fundamentals)
-- [Bayesian Statistics: From Concept to Data Analysis](https://www.coursera.org/learn/bayesian-statistics)
-- [Cloud Architect Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect)
-- [Cloud Computing Basics (Cloud 101)](https://www.coursera.org/learn/cloud-computing-basics)
-- [Cloud Developer Professional Certificate](https://www.coursera.org/professional-certificates/google-cloud-developer)
-- [Cloud DevOps Engineer Professional Certificate](https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud)
-- [Cloud Engineer Professional Certificate](https://www.coursera.org/professional-certificates/cloud-engineering-gcp)
-- [Cloud Network Engineer Professional Certificate](https://www.coursera.org/professional-certificates/google-cloud-networking)
-- [Cloud Security Engineer Professional Certificate](https://www.coursera.org/professional-certificates/google-cloud-security)
-- [Code Free Data Science](https://www.coursera.org/learn/code-free-data-science)
-- [Computational Neuroscience](https://www.coursera.org/learn/computational-neuroscience)
-- [Data Preparation and Analysis](https://www.coursera.org/learn/illinois-tech-data-preparation-and-analysis)
-- [Digital Transformation Using AI/ML with Google Cloud Specialization](https://www.coursera.org/specializations/digital-transformation-using-ai-ml-with-google-cloud)
-- [Executive Data Science Specialization](https://www.coursera.org/specializations/executive-data-science)
-- [Foundations of Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/boulder-data-structures-algorithms)
-- [From Data to Insights with Google Cloud Specialization](https://www.coursera.org/specializations/from-data-to-insights-google-cloud-platform)
-- [Gen AI for Fraud Detection Analytics](https://www.coursera.org/learn/gen-ai-for-fraud-detection-analytics)
-- [Generative Pre-trained Transformers (GPT)](https://www.coursera.org/learn/chatgpt)
-- [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
-- [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
-- [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support)
-- [Infrastructure and Application Modernization with Google Cloud](https://www.coursera.org/learn/google-cloud-product-fundamentals)
-- [Introducción al deep learning contemporáneo](https://www.coursera.org/learn/introduccion-al-deep-learning-contemporaneo)
-- [Machine Learning for Marketing Specialization](https://www.coursera.org/specializations/machine-learning-for-marketing)
-- [Machine Learning Engineer Professional Certificate](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
-- [Machine Learning on Google Cloud Specialization](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
-- [Materials Data Sciences and Informatics](https://www.coursera.org/learn/material-informatics)
-- [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
-- [Networking in Google Cloud Specialization](https://www.coursera.org/specializations/networking-google-cloud-platform)
-- [Power Electronics Specialization](https://www.coursera.org/specializations/power-electronics)
-- [Python NLTK for Beginners: Customer Satisfaction Analysis](https://www.coursera.org/projects/python-nltk-for-beginners-customer-satisfaction-analysis)
-- [Self-Driving Cars Specialization](https://www.coursera.org/specializations/self-driving-cars)
-- [Statistical Learning](https://www.coursera.org/learn/illinois-tech-statistical-learning)
-- [TensorFlow: Data and Deployment Specialization](https://www.coursera.org/specializations/tensorflow-data-and-deployment)
-- [Understanding and Applying Text Embeddings](https://www.coursera.org/projects/understanding-and-applying-text-embeddings-project)
