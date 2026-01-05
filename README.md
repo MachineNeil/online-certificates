@@ -104,6 +104,13 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
   2. [AI and Disaster Management (11 h)](https://www.coursera.org/learn/ai-and-disaster-management) ([CERT](https://www.coursera.org/account/accomplishments/verify/LNK2ARP39MGC))
   3. [AI and Public Health (9 h)](https://www.coursera.org/learn/ai-and-public-health) ([CERT](https://www.coursera.org/account/accomplishments/verify/DQQJQ3T9CYN9))
 
+- [Chemical Hazards and Process Safety Specialization (35 h)](https://www.coursera.org/specializations/chemical-hazards-and-process-safety) (University of California, Davis) ([CERT](https://www.coursera.org/account/accomplishments/specialization/I54TW2M73G1V))
+
+  1. [Chemical Hazards: Toxicology & Reactivity (8 h)](https://www.coursera.org/learn/chemical-hazards-toxicology-and-reactivity) ([CERT](https://www.coursera.org/account/accomplishments/verify/T5OS82G6IMB2))
+  2. [Fire and Explosion Hazards Analysis (7 h)](https://www.coursera.org/learn/fire-and-explosion-hazards-analysis) ([CERT](https://www.coursera.org/account/accomplishments/verify/VRV0QGLHTS85))
+  3. [Introduction to Process Safety and Risk Analysis (8 h)](https://www.coursera.org/learn/introduction-to-process-safety-and-risk-analysis) ([CERT](https://www.coursera.org/account/accomplishments/verify/MD0DCQZ8ERSK))
+  4. [Predictive Models for Toxic Chemical Releases (12 h)](https://www.coursera.org/learn/predictive-models-for-toxic-chemical-releases) ([CERT](https://www.coursera.org/account/accomplishments/verify/SNSR836VX5IK))
+     
 - [Mind and Machine (35 h)](https://www.coursera.org/specializations/mind-machine) (University of Colorado Boulder) ([CERT](https://www.coursera.org/account/accomplishments/specialization/GRPCHBYGJENJ))
 
   1. [Computational Vision (8 h)](https://www.coursera.org/learn/mind-machine-computational-vision) ([CERT](https://www.coursera.org/account/accomplishments/verify/YK3GF3R6CMPN))
@@ -158,7 +165,6 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 
 ### (C) Domain Expertise
 
-- [Chemical Hazards: Toxicology & Reactivity (8 h)](https://www.coursera.org/learn/chemical-hazards-toxicology-and-reactivity) (University of California, Davis) (CERT UNAVAILABLE)
 - [Industrial Biotechnology (11 h)](https://www.coursera.org/learn/industrial-biotech) (The University of Manchester) ([CERT](https://www.coursera.org/account/accomplishments/verify/JWZRIX5Q74DH))
 - [Nanotechnology: A Maker’s Course (26 h)](https://www.coursera.org/learn/nanotechnology) (Duke University) ([CERT](https://www.coursera.org/account/accomplishments/verify/JT7FNN2RN94N))
 - [Protecting the World: Introducing Corrosion Science and Engineering (11 h)](https://www.coursera.org/learn/corrosion) (University of Manchester) ([CERT](https://www.coursera.org/account/accomplishments/verify/4UPG54DASAP4))
