@@ -165,6 +165,7 @@ The purpose of this repository is to showcase my self-motivated, hands-on develo
 
 ### (C) Domain Expertise
 
+- [Hexavalent Chromium: Regulations, Risks, and Sustainability (3 h)](https://www.coursera.org/learn/hexavalent-chromium-regulations-risks-and-sustainability) (Coursera) ([CERT](https://www.coursera.org/account/accomplishments/verify/6QNSRES0Z1TD))
 - [Industrial Biotechnology (11 h)](https://www.coursera.org/learn/industrial-biotech) (The University of Manchester) ([CERT](https://www.coursera.org/account/accomplishments/verify/JWZRIX5Q74DH))
 - [Nanotechnology: A Maker’s Course (26 h)](https://www.coursera.org/learn/nanotechnology) (Duke University) ([CERT](https://www.coursera.org/account/accomplishments/verify/JT7FNN2RN94N))
 - [Protecting the World: Introducing Corrosion Science and Engineering (11 h)](https://www.coursera.org/learn/corrosion) (University of Manchester) ([CERT](https://www.coursera.org/account/accomplishments/verify/4UPG54DASAP4))
