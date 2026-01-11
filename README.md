@@ -1,4 +1,4 @@
-# Online STEM Certifications
+# Online STEM Certificates
 
 This repository showcases my professional certificates, specializations, online courses, and guided projects completed to expand and reinforce my theoretical and practical knowledge in science, mathematics, and computer science. It reflects my continuous learning journey and hands-on experience across STEM disciplines, which I attempt to classify with the aid of the following Venn diagram. This will be an ever-evolving endeavor.
 
