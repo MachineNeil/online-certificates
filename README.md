@@ -1,6 +1,6 @@
-# My online certificates
+# Online STEM Certifications
 
-The purpose of this repository is to showcase my self-motivated, hands-on development, which I attempt to classify with the aid of the following Venn diagram. This will be an ever-evolving endeavor.
+This repository showcases my professional certificates, specializations, online courses, and guided projects completed to expand and reinforce my theoretical and practical knowledge in science, mathematics, and computer science. It reflects my continuous learning journey and hands-on experience across STEM disciplines, which I attempt to classify with the aid of the following Venn diagram. This will be an ever-evolving endeavor.
 
 <p align="center">
   <img src="https://github.com/MachineNeil/online-certificates/assets/112895385/55ef28b7-8267-4722-9f9f-27eaf72aa8ae"/>
