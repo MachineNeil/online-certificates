@@ -1,6 +1,6 @@
 # Online STEM Certificates
 
-This repository showcases my professional certificates, specializations, online courses, and guided projects completed to expand and reinforce my theoretical and practical knowledge in science, mathematics, and computer science. It reflects my continuous learning journey and hands-on experience across STEM disciplines, which I attempt to classify with the aid of the following Venn diagram. This will be an ever-evolving endeavor.
+I am a (bio)analytical chemist. This repository showcases my online professional certificates, specializations, online courses, and guided projects completed to expand and reinforce my theoretical and practical knowledge in science, mathematics, and computer science. It reflects my continuous learning journey and hands-on experience across STEM disciplines, which I attempt to classify with the aid of the following Venn diagram. This will be an ever-evolving endeavor.
 
 <p align="center">
   <img src="https://github.com/MachineNeil/online-certificates/assets/112895385/55ef28b7-8267-4722-9f9f-27eaf72aa8ae"/>
@@ -167,6 +167,7 @@ This repository showcases my professional certificates, specializations, online 
 
 - [Hexavalent Chromium: Regulations, Risks, and Sustainability (3 h)](https://www.coursera.org/learn/hexavalent-chromium-regulations-risks-and-sustainability) (Coursera) ([CERT](https://www.coursera.org/account/accomplishments/verify/6QNSRES0Z1TD))
 - [Industrial Biotechnology (11 h)](https://www.coursera.org/learn/industrial-biotech) (The University of Manchester) ([CERT](https://www.coursera.org/account/accomplishments/verify/JWZRIX5Q74DH))
+- [Refresher: Introduction to Molecular Spectroscopy (11 h)](https://www.coursera.org/learn/spectroscopy) (The University of Manchester) ([CERT](https://www.coursera.org/account/accomplishments/verify/1SQUK0TEH8FA))
 - [Nanotechnology: A Maker’s Course (26 h)](https://www.coursera.org/learn/nanotechnology) (Duke University) ([CERT](https://www.coursera.org/account/accomplishments/verify/JT7FNN2RN94N))
 - [Protecting the World: Introducing Corrosion Science and Engineering (11 h)](https://www.coursera.org/learn/corrosion) (University of Manchester) ([CERT](https://www.coursera.org/account/accomplishments/verify/4UPG54DASAP4))
 - [Water: an essential resource (3 h)](https://www.coursera.org/learn/water-an-essential-resource) (Politecnico di Milano) ([CERT](https://www.coursera.org/account/accomplishments/verify/HTZ3BF5Q53AM))
