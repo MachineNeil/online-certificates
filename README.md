@@ -165,7 +165,6 @@ I am a (bio)analytical chemist. This repository showcases my online professional
 
 ### (C) Domain Expertise
 
-- [Biochemical Principles of Energy Metabolism (10 h)](https://www.coursera.org/learn/energy-metabolism) (KAIST - Korea Advanced Institute of Science and Technology) ([CERT](https://www.coursera.org/account/accomplishments/verify/Z5BXG66Q9PHP))
 - [Hexavalent Chromium: Regulations, Risks, and Sustainability (3 h)](https://www.coursera.org/learn/hexavalent-chromium-regulations-risks-and-sustainability) (Coursera) ([CERT](https://www.coursera.org/account/accomplishments/verify/6QNSRES0Z1TD))
 - [Hydrogen: Key Concepts and Use in Green Technologies (74 h)](https://www.coursera.org/learn/hydrogen-key-concepts-and-use-in-green-technologies) (DTU - Technical University of Denmark) ([CERT](https://www.coursera.org/account/accomplishments/verify/PH4H5FHFGXFC))
 - [Industrial Biotechnology (11 h)](https://www.coursera.org/learn/industrial-biotech) (The University of Manchester) ([CERT](https://www.coursera.org/account/accomplishments/verify/JWZRIX5Q74DH))
@@ -173,6 +172,7 @@ I am a (bio)analytical chemist. This repository showcases my online professional
 - [Nanotechnology: A Maker’s Course (26 h)](https://www.coursera.org/learn/nanotechnology) (Duke University) ([CERT](https://www.coursera.org/account/accomplishments/verify/JT7FNN2RN94N))
 - [Organometallic Catalysis in Sustainable Chemistry (10 h)](https://www.coursera.org/learn/organometallic-catalysis-in-sustainable-chemistry) (DTU - Technical University of Denmark) ([CERT](https://www.coursera.org/account/accomplishments/verify/R41K8I33ORSI))
 - [Protecting the World: Introducing Corrosion Science and Engineering (11 h)](https://www.coursera.org/learn/corrosion) (University of Manchester) ([CERT](https://www.coursera.org/account/accomplishments/verify/4UPG54DASAP4))
+- [Refresher: Biochemical Principles of Energy Metabolism (10 h)](https://www.coursera.org/learn/energy-metabolism) (KAIST - Korea Advanced Institute of Science and Technology) ([CERT](https://www.coursera.org/account/accomplishments/verify/Z5BXG66Q9PHP))
 - [Refresher: Introduction to Molecular Spectroscopy (11 h)](https://www.coursera.org/learn/spectroscopy) (The University of Manchester) ([CERT](https://www.coursera.org/account/accomplishments/verify/1SQUK0TEH8FA))
 - [Water: an essential resource (3 h)](https://www.coursera.org/learn/water-an-essential-resource) (Politecnico di Milano) ([CERT](https://www.coursera.org/account/accomplishments/verify/HTZ3BF5Q53AM))
 
