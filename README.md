@@ -165,6 +165,7 @@ I am a (bio)analytical chemist. This repository showcases my online professional
 
 ### (C) Domain Expertise
 
+- [Biochemical Principles of Energy Metabolism (10 h)](https://www.coursera.org/learn/energy-metabolism) (KAIST - Korea Advanced Institute of Science and Technology) ([CERT](https://www.coursera.org/account/accomplishments/verify/Z5BXG66Q9PHP))
 - [Hexavalent Chromium: Regulations, Risks, and Sustainability (3 h)](https://www.coursera.org/learn/hexavalent-chromium-regulations-risks-and-sustainability) (Coursera) ([CERT](https://www.coursera.org/account/accomplishments/verify/6QNSRES0Z1TD))
 - [Hydrogen: Key Concepts and Use in Green Technologies (74 h)](https://www.coursera.org/learn/hydrogen-key-concepts-and-use-in-green-technologies) (DTU - Technical University of Denmark) ([CERT](https://www.coursera.org/account/accomplishments/verify/PH4H5FHFGXFC))
 - [Industrial Biotechnology (11 h)](https://www.coursera.org/learn/industrial-biotech) (The University of Manchester) ([CERT](https://www.coursera.org/account/accomplishments/verify/JWZRIX5Q74DH))
