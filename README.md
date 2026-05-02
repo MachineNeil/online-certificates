@@ -163,6 +163,7 @@ I am a (bio)analytical chemist. This repository showcases my online professional
 
 ### (C) Domain Expertise
 
+- [Basic Principles of Cell Signaling (8 h)](https://www.coursera.org/learn/basic-principles-of-cell-signaling) (KAIST - Korea Advanced Institute of Science and Technology) ([CERT](https://www.coursera.org/account/accomplishments/verify/RMOE84MFN4RM))
 - [Hexavalent Chromium: Regulations, Risks, and Sustainability (3 h)](https://www.coursera.org/learn/hexavalent-chromium-regulations-risks-and-sustainability) (Coursera) ([CERT](https://www.coursera.org/account/accomplishments/verify/6QNSRES0Z1TD))
 - [Hydrogen: Key Concepts and Use in Green Technologies (74 h)](https://www.coursera.org/learn/hydrogen-key-concepts-and-use-in-green-technologies) (DTU - Technical University of Denmark) ([CERT](https://www.coursera.org/account/accomplishments/verify/PH4H5FHFGXFC))
 - [Industrial Biotechnology (11 h)](https://www.coursera.org/learn/industrial-biotech) (The University of Manchester) ([CERT](https://www.coursera.org/account/accomplishments/verify/JWZRIX5Q74DH))
