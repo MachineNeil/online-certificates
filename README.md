@@ -108,6 +108,15 @@ I am a (bio)analytical chemist. This repository showcases my online professional
   2. [Fire and Explosion Hazards Analysis (7 h)](https://www.coursera.org/learn/fire-and-explosion-hazards-analysis) ([CERT](https://www.coursera.org/account/accomplishments/verify/VRV0QGLHTS85))
   3. [Introduction to Process Safety and Risk Analysis (8 h)](https://www.coursera.org/learn/introduction-to-process-safety-and-risk-analysis) ([CERT](https://www.coursera.org/account/accomplishments/verify/MD0DCQZ8ERSK))
   4. [Predictive Models for Toxic Chemical Releases (12 h)](https://www.coursera.org/learn/predictive-models-for-toxic-chemical-releases) ([CERT](https://www.coursera.org/account/accomplishments/verify/SNSR836VX5IK))
+
+- [Drug Hunting: The Science of Making New Medicines Specialization (51 h)](https://www.coursera.org/specializations/drug-hunting-discovery-and-development) (Novartis) ([CERT](https://www.coursera.org/account/accomplishments/specialization/HHBTXVMGWGCH))
+
+  1. [Lead Selection & Optimization (8 h)](https://www.coursera.org/learn/lead-selection-optimization) ([CERT](https://www.coursera.org/account/accomplishments/verify/KK77TUE41A5Z))
+  2. [Novartis Introduction to Drug Hunting (9 h)](https://www.coursera.org/learn/introduction-to-drug-hunting) ([CERT](https://www.coursera.org/account/accomplishments/verify/UVNTW4NWVL65))
+  3. [Pharmacokinetics (12 h)](https://www.coursera.org/learn/pharmacokinetics) ([CERT](https://www.coursera.org/account/accomplishments/verify/H7YFSV46TKT8))
+  4. [Preclinical Safety (6 h)](https://www.coursera.org/learn/preclinical-safety) ([CERT](https://www.coursera.org/account/accomplishments/verify/E05T5H4RGZUE))
+  5. [Pre-formulation (8 h)](https://www.coursera.org/learn/pre-formulation) ([CERT](https://www.coursera.org/account/accomplishments/verify/IGF67R3X6TBG))
+  6. [Targets, Assays & Screening (8 h)](https://www.coursera.org/learn/targets-assays-screening) ([CERT](https://www.coursera.org/account/accomplishments/verify/RFH8NPT2VUX1))
      
 - [Mind and Machine (35 h)](https://www.coursera.org/specializations/mind-machine) (University of Colorado Boulder) ([CERT](https://www.coursera.org/account/accomplishments/specialization/GRPCHBYGJENJ))
 
